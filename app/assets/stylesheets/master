@@ -1,1 +1,5 @@
 @import "bootstap";
+
+.clear {
+	clear: both;
+}
